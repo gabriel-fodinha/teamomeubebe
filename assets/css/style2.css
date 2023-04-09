@@ -4,6 +4,7 @@
     font-family: 'Delicious Handrawn', cursive;
 }
 
+
 body {
     background-color: #fc1654;
 }
@@ -44,4 +45,35 @@ div#box {
     box-shadow: 0px 3px 10px #464646;
     margin-top: 5vh;
     text-align: center;
+}
+
+div#box h2 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+.buttons {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-evenly;
+}
+
+.botao {
+    cursor: pointer;
+    width: 15vh;
+    border: solid 1px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+div#box a {
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
 }
