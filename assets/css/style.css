@@ -45,3 +45,11 @@ div#box {
     margin-top: 5vh;
     text-align: center;
 }
+
+div#box a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+}
