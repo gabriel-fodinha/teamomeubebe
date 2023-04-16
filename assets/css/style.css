@@ -101,6 +101,7 @@ div#box4 {
     box-shadow: 0px 3px 10px #464646;
     margin-top: 5vh;
     text-align: center;
+    margin-bottom: 5vh;
 }
 
 div#box4 a {
@@ -109,5 +110,4 @@ div#box4 a {
     color: #ffffff;
     font-size: 25px;
     font-family: 'Alkatra', cursive;
-    margin-bottom: 5vh;
 }

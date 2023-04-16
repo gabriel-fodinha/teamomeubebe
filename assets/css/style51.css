@@ -107,9 +107,9 @@ div#header2 h1 {
     color: rgb(39, 39, 39);
 }
 
-div#header2 h2 {
+div#header2 p {
     text-align: center;
-    padding: 1.5vh;
+    padding: 5vh;
     color: rgb(39, 39, 39);
     font-size: 30px;
 }
