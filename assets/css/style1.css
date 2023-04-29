@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+body {
+    background-color: #fc1654;
+}
+
+header {
+    background-color: rgb(255, 213, 151);
+    border-radius: 5px;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    margin-top: 2vh;
+}
+
+header h1 {
+    text-align: center;
+    padding: 1.5vh;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div#box {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+}
+
+div#box2 {
+    width: 335px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box2 a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+}
+
+div#box3 {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box3 a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+}
+div#box4 {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+div#box4 a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Alkatra', cursive;
+}
