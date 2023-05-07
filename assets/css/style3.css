@@ -37,7 +37,7 @@ header a {
 
 div#box {
     width: 300px;
-    height: 350px;
+    height: 525px;
     background: rgb(224,121,121);
     background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
     border: groove #000 2px;
