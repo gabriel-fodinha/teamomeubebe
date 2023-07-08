@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+
+body {
+    background-color: #fc1654;
+    height: 100%;
+}
+
+header {
+    background-color: rgb(255, 213, 151);
+    border-radius: 5px;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    margin-top: 2vh;
+}
+
+header h1, header h4 {
+    text-align: center;
+    padding: 1.5vh;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div#box {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box2 {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box3 {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box4 {
+    width: 325px;
+    height: 350px;
+    background: rgb(224,121,121);
+    background: radial-gradient(circle, rgba(224,121,121,1) 0%, rgba(138,3,126,1) 100%);
+    border: groove #000 2px;
+    border-radius: 25px;
+    box-shadow: 0px 3px 10px #464646;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+div#box4 img {
+    border-radius: 25px;
+    padding: 5px;
+}
+
+p {
+    color: #fff;
+    font-size: 25px;
+}
+
+div#header2 {
+    background-color: rgb(255, 213, 151);
+    border-radius: 5px;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+    
+div#header2 h1 {
+    text-align: center;
+    padding: 1.5vh;
+    color: rgb(39, 39, 39);
+}
+
+div#header2 p {
+    text-align: center;
+    padding: 5vh;
+    color: rgb(39, 39, 39);
+    font-size: 30px;
+}
